@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "956EEE3A0753DA9E277FDF5A067716DABEC7C31A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "956EEE3A0753DA9E277FDF5A067716DABEC7C31A" : 9223372036854775807,
+    "A84F99799467E478D7D891D3204C3C5F55192DB6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "34460729-1910-4E22-B6E8-7B9C2063D4AD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "956EEE3A0753DA9E277FDF5A067716DABEC7C31A" : "project_0\/",
+    "A84F99799467E478D7D891D3204C3C5F55192DB6" : "project_0\/project_0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "project_0",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "project_0.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/etrem\/project_0.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "956EEE3A0753DA9E277FDF5A067716DABEC7C31A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.eecs.umich.edu:etrem\/project0.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A84F99799467E478D7D891D3204C3C5F55192DB6"
+    }
+  ]
+}
